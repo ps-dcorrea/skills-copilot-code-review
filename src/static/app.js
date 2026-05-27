@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const timeRanges = {
     morning: { start: "06:00", end: "08:00" }, // Antes das aulas
     afternoon: { start: "15:00", end: "18:00" }, // Após as aulas
-    weekend: { days: ["Saturday", "Sunday"] }, // Final de semana
+    weekend: { days: ["Sábado", "Domingo"] }, // Final de semana
   };
 
   // Initialize filters from active elements
